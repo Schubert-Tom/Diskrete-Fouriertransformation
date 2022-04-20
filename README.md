@@ -7,7 +7,7 @@ Ein Projekt zur Visualisierung der Diskreten Fouriertransformation.
  
  1. Repository clonen oder im Zip-Format herunterladen
  2. In den Repository-Ordner wechseln
- 3. Requirements installieren ’pip install -r requirements.txt’
+ 3. Requirements installieren `pip install -r requirements.txt`
  4. Notebook im Ordner 'Notebook' ausführen
  
   ## Anmerkungen
